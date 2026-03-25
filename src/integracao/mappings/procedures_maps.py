@@ -455,7 +455,7 @@ V3_PROCEDURES_MAP: List[Dict[str, Optional[str]]] = [
         "redcap_date_field": "revisao_dados_dt"
     },
     {
-        #11
+        #11 corrigido para revisar o campo de medicações prévias/concomitantes
         "procedure_name": r"Registro\s+de\s+medicações\s+prévias/concomitantes\s+e\s+uso\s+de\s+terapia\s+hormonal\s+da\s+menopausa",
         "redcap_check_field": "revisao_dados_q14",
         "redcap_date_field": "revisao_dados_dt"
